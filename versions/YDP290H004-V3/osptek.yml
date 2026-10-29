@@ -1,0 +1,10 @@
+id: YDP290H004-V3
+category: displays
+size: "2.9"
+panel: rlcd
+resolution: 168x384
+interface: [spi]
+driver: ST7305
+touch: null
+outline: 31.1 x 70.95 mm
+active_area: 29.1 x 66.85 mm
